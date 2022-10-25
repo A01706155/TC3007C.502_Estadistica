@@ -6,10 +6,10 @@ Hola prof, buenas noches una disculpa te mandé un correo, no sé si te llegó p
 
 ### El correo:
 
-From: [Manolo Ramírez Pintor](mailto:A01706155@tec.mx)
-Sent: lunes, 17 de octubre de 2022 06:26 p. m.
-To: [Carlos Alberto Dorantes Dosamantes](mailto:cdorante@tec.mx)
-**Subject: Solicitud de entrega tardía - Entregable 2 Estadística**
+From: [Manolo Ramírez Pintor](mailto:A01706155@tec.mx)   
+Sent: lunes, 17 de octubre de 2022 06:26 p. m.   
+To: [Carlos Alberto Dorantes Dosamantes](mailto:cdorante@tec.mx)   
+**Subject: Solicitud de entrega tardía - Entregable 2 Estadística**   
 
 Hola prof, buenos días.   
 
