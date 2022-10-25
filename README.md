@@ -4,7 +4,13 @@ Repositorio destinado a entregas del módulo de estadística, para la materia TC
 # Mensaje importante
 Hola prof, buenas noches una disculpa te mandé un correo, no sé si te llegó pero igual lo adjunto aquí. El asunto es que tendré que subirlo otro día ya que estuve en un evento, muchas gracias.   
 
-#### El correo:
+### El correo:
+
+From: [Manolo Ramírez Pintor](mailto:A01706155@tec.mx)
+Sent: lunes, 17 de octubre de 2022 06:26 p. m.
+To: [Carlos Alberto Dorantes Dosamantes](mailto:cdorante@tec.mx)
+**Subject: Solicitud de entrega tardía - Entregable 2 Estadística**
+
 Hola prof, buenos días.   
 
 Me comunico por este medio para ver la posibilidad de poder tener una asesoría de retroalimentación o extender la fecha de retroalimentación para mi segundo entregable de estadística, para que pueda ser después del día lunes 24 de este mes.   
